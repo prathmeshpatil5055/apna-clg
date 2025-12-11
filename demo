@@ -1,0 +1,4 @@
+git clone https://github.com/user/git-collab-learning.git
+git status
+git commit -m "Added feature A"
+git push
